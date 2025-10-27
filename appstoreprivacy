@@ -11,6 +11,7 @@ If you are using the Application outside of a Wi-Fi area, please be aware that y
 Similarly, the Service Provider cannot always assume responsibility for your usage of the Application. It is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
 While the Service Provider strives to ensure that it is updated and accurate at all times, they rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the Application.
 The Service Provider may update the Application at some point. The Application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the Application to) may change, and you will need to download the updates if you want to continue using the Application. The Service Provider does not guarantee that it will always update the Application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the Application when offered to you. The Service Provider may also wish to cease providing the Application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the Application, and (if necessary) delete it from your device.
+
 Privacy and Data Handling
 The Application collects and stores the following personally identifiable information (PII):
 Full name and email address for user login.
@@ -18,6 +19,12 @@ Among the information stored along with the Application on the device:
 Geospatial locations where the user data are created.
 Other than the above, no additional security information is stored.
 This information is stored within the Application's dedicated storage area. However, if the device is rooted, unauthorized access to locally stored data may occur, although login information remains protected.
+
+Location Data Access and Usage
+The Application may request access to your device’s precise or approximate location. 
+This information is used solely to associate records, survey points, and mapped data with their geographic coordinates. 
+Location data is not used for marketing, tracking, or background analytics unrelated to the primary purpose of the Application. 
+Location access occurs only while the Application is in use and is never shared or sold to third parties.
 
 Data Deletion Policies
 Locally stored data is deleted under the following conditions:
